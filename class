@@ -1,0 +1,7 @@
+class MyObject:
+  def__init__(self)
+    pass
+   
+my_obj = MyObject()
+
+print(dir(my_obj))
